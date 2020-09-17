@@ -4,7 +4,7 @@ Learning Asynchronous JavaScript: JavaScript that uses callbacks, promises, and 
 
 ### `node <filename>`
 
-Make sure you have [node](https://nodejs.org/en/) installed and run the above command in your console.
+Make sure you have [node](https://nodejs.org/en/) installed and run the above command in your console to see the app in action.
 
 ## License
 
